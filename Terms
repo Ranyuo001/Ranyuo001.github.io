@@ -1,0 +1,166 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>家属端服务协议</title>
+  <style>
+    body {
+      font-family: 'PingFang SC', 'Helvetica Neue', Arial, 'Microsoft YaHei', sans-serif;
+      background: #f9f9fb;
+      margin: 0;
+      padding: 0;
+      color: #222;
+    }
+    .container {
+      max-width: 700px;
+      margin: 0 auto;
+      background: #fff;
+      border-radius: 0;
+      padding: 40px 32px 40px 32px;
+      box-shadow: none;
+    }
+    .main-title {
+      font-size: 2.3rem;
+      font-weight: 700;
+      text-align: center;
+      margin-bottom: 36px;
+      letter-spacing: 1px;
+      color: #222;
+    }
+    .section {
+      margin: 0 auto 36px auto;
+      max-width: 90%;
+      border-left: 4px solid #3575ec;
+      padding: 24px 18px 24px 18px;
+      background: none;
+    }
+    .section-title {
+      font-size: 1.18rem;
+      font-weight: 600;
+      color: #3575ec;
+      margin-bottom: 12px;
+      margin-top: 0;
+    }
+    .section ul {
+      padding-left: 1.2em;
+      margin: 0;
+    }
+    .section li {
+      margin-bottom: 7px;
+      line-height: 1.8;
+    }
+    .section p {
+      margin: 0 0 10px 0;
+      line-height: 1.8;
+    }
+    @media (max-width: 600px) {
+      .container {
+        padding: 18px 6px;
+      }
+      .main-title {
+        font-size: 1.3rem;
+        margin-bottom: 22px;
+      }
+      .section {
+        padding: 14px 4px 14px 8px;
+        max-width: 98%;
+      }
+      .section-title {
+        font-size: 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <div class="main-title">家属端服务协议</div>
+    <div class="section">
+      <div class="section-title">一、协议的接受与变更</div>
+      <ul>
+        <li>您在注册、登录、使用本应用家属端时，即视为已阅读并同意本协议全部条款。</li>
+        <li>我们有权根据业务需要对本协议进行修订，修订后的协议将通过应用内公告等方式通知您。若您不同意相关变更，应立即停止使用本应用。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title">二、账户注册与身份认证</div>
+      <ul>
+        <li>您需通过本应用注册账户，并按要求提交真实、准确、完整的注册信息（如手机号码、验证码、登录密码等）。</li>
+        <li>家属需完成实名认证，提交包括但不限于姓名、身份证号、与老人关系证明等信息，以便关联老人账户。</li>
+        <li>您应妥善保管账户信息，因您自身原因导致的账户信息泄露、被盗用等后果由您自行承担。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title">三、老人信息管理</div>
+      <ul>
+        <li>您可添加、编辑、管理关联老人的信息，需保证所提交信息真实、准确，包括但不限于姓名、年龄、健康状况、病史等。</li>
+        <li>您应对所管理的老人信息承担保密责任，不得擅自泄露给第三方。</li>
+        <li>如老人信息发生变更，您应及时更新，确保信息的时效性。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title">四、健康数据与服务使用</div>
+      <ul>
+        <li>您有权查看关联老人的健康数据（如心率、血压、睡眠等），该数据仅供监护用途，不得用于其他目的。</li>
+        <li>您可通过平台为老人预约健康服务、社区活动等，需如实填写预约信息，遵守服务提供者的规定。</li>
+        <li>您应及时关注服务订单状态，配合平台及服务方处理服务相关事宜。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title">五、提醒与紧急联系</div>
+      <ul>
+        <li>您可设置健康提醒、活动提醒等，确保老人按时接受服务或进行健康监测。</li>
+        <li>您可管理紧急联系人列表，确保信息准确有效，以便在紧急情况下及时联系。</li>
+        <li>收到紧急告警信息时，您应及时响应并采取必要措施。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title">六、用户权利与义务</div>
+      <ul>
+        <li>您有权按照本协议约定使用本应用提供的各项功能和服务，包括查看老人健康数据、管理提醒、预约服务等。</li>
+        <li>您应遵守国家法律法规及本协议相关规定，不得利用本应用从事任何违法违规活动。</li>
+        <li>您不得恶意注册、滥用平台资源、篡改老人数据、侵犯老人或他人合法权益。</li>
+        <li>如发现您存在违法违规行为，我们有权暂停或终止对您的服务，并依法追究相关责任。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title">七、信息保护与隐私</div>
+      <ul>
+        <li>我们将按照《家属端隐私政策》保护您及关联老人的个人信息安全，具体内容详见隐私政策。</li>
+        <li>您应对老人的个人信息和健康数据严格保密，未经老人同意（或法定情形）不得向第三方披露。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title">八、知识产权声明</div>
+      <ul>
+        <li>本应用及相关内容（包括但不限于界面设计、图标、商标、文字、图片等）均受法律保护，归我们或相关权利人所有。</li>
+        <li>未经授权，任何单位或个人不得擅自使用、复制、传播、修改、转载本应用相关内容。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title">九、免责条款</div>
+      <ul>
+        <li>因不可抗力、网络故障、系统维护等原因导致服务中断、数据延迟或丢失，我们将尽力修复，但不承担由此造成的损失责任。</li>
+        <li>因您自身操作不当、信息填写错误等原因造成的损失，由您自行承担。</li>
+        <li>健康数据仅作参考，不构成医疗诊断建议，您应结合专业医疗意见进行判断。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title">十、协议的终止与解除</div>
+      <ul>
+        <li>您可随时通过“个人中心-注销账号”功能终止本协议。</li>
+        <li>如您违反本协议或相关法律法规，我们有权暂停或终止对您的服务，并保留追究法律责任的权利。</li>
+      </ul>
+    </div>
+    <div class="section">
+      <div class="section-title">十一、其他</div>
+      <ul>
+        <li>本协议的签订、履行、解释及争议解决均适用中华人民共和国法律。</li>
+        <li>如本协议部分条款无效，不影响其他条款的效力。</li>
+        <li>本协议内容最终解释权归【智慧养老服务平台】所有。</li>
+      </ul>
+    </div>
+    <div style="text-align:center;color:#bbb;font-size:0.98rem;margin-top:32px;letter-spacing:1px;">© 智慧养老家属端</div>
+  </div>
+</body>
+</html>
